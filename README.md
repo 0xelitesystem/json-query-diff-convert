@@ -1,8 +1,8 @@
-# JSON Workbench
+# JSON Query Diff Convert
 
 Format, validate, explore, query, diff, and convert JSON entirely in your browser. No server, no tracking, no third-party scripts.
 
-**Live demo:** https://0xelitesystem.github.io/json-workbench/
+**Live demo:** https://0xelitesystem.github.io/json-query-diff-convert/
 
 ## What it does
 
@@ -39,8 +39,8 @@ That said, treat any web tool with care. For sensitive payloads, save the file a
 ## Run locally
 
 ```bash
-git clone https://github.com/0xelitesystem/json-workbench
-cd json-workbench
+git clone https://github.com/0xelitesystem/json-query-diff-convert
+cd json-query-diff-convert
 # Open index.html in your browser, or:
 python -m http.server 8000
 ```
@@ -59,6 +59,6 @@ MIT.
 
 ## Related
 
-- [json-formatter-and-validator](https://github.com/0xelitesystem/json-formatter-and-validator), pretty-print and validate JSON
+- [json-format-minify-validate](https://github.com/0xelitesystem/json-format-minify-validate), pretty-print and validate JSON
 - [json-value-to-ts-interfaces](https://github.com/0xelitesystem/json-value-to-ts-interfaces), generate TypeScript interfaces from JSON
 - [jsonpath-live-matcher](https://github.com/0xelitesystem/jsonpath-live-matcher), test JSONPath expressions against a document
