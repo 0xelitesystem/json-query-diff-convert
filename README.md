@@ -60,5 +60,5 @@ MIT.
 ## Related
 
 - [json-formatter-and-validator](https://github.com/0xelitesystem/json-formatter-and-validator), pretty-print and validate JSON
-- [json-to-typescript](https://github.com/0xelitesystem/json-to-typescript), generate TypeScript interfaces from JSON
-- [json-path-tester](https://github.com/0xelitesystem/json-path-tester), test JSONPath expressions against a document
+- [json-value-to-ts-interfaces](https://github.com/0xelitesystem/json-value-to-ts-interfaces), generate TypeScript interfaces from JSON
+- [jsonpath-live-matcher](https://github.com/0xelitesystem/jsonpath-live-matcher), test JSONPath expressions against a document
